@@ -5,3 +5,7 @@ Git tracks changes.
 
 提交本地至github命令行：
 git push origin master
+
+创建并切换分支：
+git checkout -b dev
+

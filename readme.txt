@@ -23,3 +23,14 @@ git merge <name>
 
 删除分支：
 git branch -d <name>
+
+
+###分支管理策略
+#禁用Fast forward
+
+
+
+
+
+
+

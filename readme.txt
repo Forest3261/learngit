@@ -7,5 +7,4 @@ Git tracks changes.
 git push origin master
 
 创建并切换分支：
-git checkout -b dev
-
+git switch -c dev
